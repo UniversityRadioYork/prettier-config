@@ -1,0 +1,10 @@
+{
+  "name": "@ury1350/prettier-config",
+  "version": "1.0.0",
+  "description": "URY's Prettier configuration",
+  "main": "index.json",
+  "repository": "git@github.com:UniversityRadioYork/prettier-config.git",
+  "author": "",
+  "license": "MIT",
+  "private": false
+}
