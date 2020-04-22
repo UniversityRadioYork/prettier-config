@@ -8,5 +8,6 @@
 	"jsxBracketSameLine": false,
 	"arrowParens": "always",
 	"bracketSpacing": true,
-	"quoteProps": "as-needed"
+	"quoteProps": "as-needed",
+	"endOfLine": "lf"
 }
